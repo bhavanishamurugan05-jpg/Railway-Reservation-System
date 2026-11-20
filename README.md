@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230034
+# Name:BHAVANISHA M
+# Date:20/11/26
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="877" height="706" alt="ex-03 use" src="https://github.com/user-attachments/assets/ecd75ebe-042e-482e-881b-0435bff39b92" />
 
 
 
@@ -59,6 +60,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1906" height="1003" alt="ex-03 cls" src="https://github.com/user-attachments/assets/c128c16f-7b2d-4650-8b57-fd2af9860113" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +69,9 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
+
+<img width="1261" height="973" alt="ex-03 com" src="https://github.com/user-attachments/assets/6111964a-6fe3-40d1-97e5-b71a2c792fe5" />
 
 
 
@@ -79,6 +85,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1254" height="972" alt="ex-03 pack" src="https://github.com/user-attachments/assets/0f55203f-63e0-4513-afeb-a7f5d9a13851" />
 
 
 
@@ -98,6 +105,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1261" height="977" alt="ex-03 act" src="https://github.com/user-attachments/assets/c37ec62f-627f-4b14-a931-9c63312fb535" />
 
 
 
@@ -120,6 +128,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="773" height="722" alt="ex-03 seq" src="https://github.com/user-attachments/assets/31adeb6c-0017-423e-83b4-4ce3dafac8ec" />
 
 
 
